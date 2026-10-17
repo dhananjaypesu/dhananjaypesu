@@ -50,12 +50,12 @@ independent error sources, and only one of them is worth spending on.
 
 ### Tools
 
-**Languages** Go · Java · Python · C++ · JavaScript · SQL
-**Systems** concurrency and the race detector · profiling · benchmarking · distributed systems · Docker · Linux
-**Web & data** Node.js · Express · React · PostgreSQL · MongoDB · Redis · pandas · scikit-learn
+- **Languages** Go · Java · Python · C++ · JavaScript · SQL
+- **Systems** concurrency and the race detector · profiling · benchmarking · distributed systems · Docker · Linux
+- **Web & data** Node.js · Express · React · PostgreSQL · MongoDB · Redis · pandas · scikit-learn
 
 ### Elsewhere
 
-Bengaluru, India · [narayandhananjay7@gmail.com](mailto:narayandhananjay7@gmail.com)
+Bengaluru, India · [Website](https://dhananjaypesu.github.io) · [LinkedIn](https://www.linkedin.com/in/dhananjay-narayan-938869444) · [narayandhananjay7@gmail.com](mailto:narayandhananjay7@gmail.com)
 
-Looking for **SDE internship / new-grad** roles.
+Looking for **backend / SDE internship and new-grad** roles.
